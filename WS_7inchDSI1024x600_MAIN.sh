@@ -16,7 +16,7 @@ Hardware_Message(){
 Hardware_Message_Value=`Hardware_Message`
 
 
-if [ ${Hardware_Message_Value} == 4 ]
+if [ $Hardware_Message_Value -eq 4 ]; 
 then
 	cd ./pi4
 	printf "pi4\n"
