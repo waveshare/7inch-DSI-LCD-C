@@ -8,7 +8,7 @@ WIKI:https://www.waveshare.com/wiki/7inch_DSI_LCD_(C)_
 
 These are the drivers for 7inch DSI LCD (C)
 
-P3: Support Raspberry pi 3 Module B+, Raspberry Pi 3 Model A+ and Compute Module 3+
+Pi3: Support Raspberry pi 3 Module B+, Raspberry Pi 3 Model A+ and Compute Module 3+
 
 Pi4: Support Raspberry Pi 4 Module B and the Compute Module 4
 
