@@ -14,7 +14,7 @@ Pi4: Support Raspberry Pi 4 Module B and the Compute Module 4
 
 Please choose the correct driver according to the type of Raspberry Pi board
 
-Brightness: Software for controlling the brightness of 7inch DSI LCD (C), if you do not need to adjust the brightness of display, you needn’t to install it.
+Backlight: Software for controlling the brightness of 7inch DSI LCD (C), if you do not need to adjust the brightness of display, you needn’t to install it.
 
 --------------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Pi4目录驱动支持的主板有：Raspberry Pi 4 Model B和Compute Module 4
 
 需要根据相应的树莓派版本选择安装对应驱动。
 
-brightness是7inch DSI LCD (C)的背光控制上位机程序，如果你不需要控制7inch DSI LCD (C)的亮度，则可不使用。
+Backlight是7inch DSI LCD (C)的背光控制上位机程序，如果你不需要控制7inch DSI LCD (C)的亮度，则可不使用。
